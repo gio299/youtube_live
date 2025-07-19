@@ -2,8 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-MAD TV | GREECE |  |
-https://www.youtube.com/watch?v=2V_06K6AuyA
-MAD TV | GREECE |  |
-https://www.youtube.com/c/madtvgreece/live
+Euronews | GREECE |  |
+https://www.youtube.com/watch?v=uWIhV9gQClg
+Euronews | GREECE |  |
+https://www.youtube.com/watch?v=uWIhV9gQClg
 
